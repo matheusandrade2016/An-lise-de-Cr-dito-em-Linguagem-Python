@@ -8,10 +8,10 @@ Este repositório contém uma análise exploratória de dados de crédito com o 
 
 Coleta de Dados: Utilização de um conjunto de dados contendo informações de 1500 clientes, incluindo:
 1. ID do cliente
-Renda
-Idade
-Valor do empréstimo
-Histórico de pagamento (variável alvo: 0 - adimplente, 1 - inadimplente)
+2. Renda
+3. Idade
+4. Valor do empréstimo
+5. Histórico de pagamento (variável alvo: 0 - adimplente, 1 - inadimplente)
 
 # Pré-processamento:
 
