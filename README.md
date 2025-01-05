@@ -15,23 +15,23 @@ Coleta de Dados: Utilização de um conjunto de dados contendo informações de 
 
 # Pré-processamento:
 
-Limpeza: Remoção de duplicatas, tratamento de valores inconsistentes (ex: idade negativa) e outliers.
+1. Limpeza: Remoção de duplicatas, tratamento de valores inconsistentes (ex: idade negativa) e outliers.
 
-Tratamento de valores ausentes: Imputação de valores faltantes utilizando estratégias como média, mediana ou moda, dependendo da característica da variável.
+2. Tratamento de valores ausentes: Imputação de valores faltantes utilizando estratégias como média, mediana ou moda, dependendo da característica da variável.
 
-Escalonamento: Normalização dos dados para garantir que todas as features tenham a mesma escala, utilizando técnicas como StandardScaler ou MinMaxScaler.
+3. Escalonamento: Normalização dos dados para garantir que todas as features tenham a mesma escala, utilizando técnicas como StandardScaler ou MinMaxScaler.
 
 # Análise Exploratória de Dados (EDA):
 
-Visualização: Criação de gráficos (histograma, scatter plot) para entender a distribuição das variáveis e identificar relações entre elas.
+1. Visualização: Criação de gráficos (histograma, scatter plot) para entender a distribuição das variáveis e identificar relações entre elas.
 
-Estatísticas descritivas: Cálculo de medidas como média, mediana, desvio padrão para obter um resumo estatístico dos dados
+2. Estatísticas descritivas: Cálculo de medidas como média, mediana, desvio padrão para obter um resumo estatístico dos dados
 
 
 ## Tecnologias Utilizadas:
 
 Linguagem: Python
-
 Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn, plotly
+Autor: Matheus Andrade Moreira
 
 
