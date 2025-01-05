@@ -7,7 +7,7 @@
 Este repositório contém uma análise exploratória de dados de crédito com o objetivo de prever a probabilidade de inadimplência de clientes. O projeto abrange as seguintes etapas:
 
 Coleta de Dados: Utilização de um conjunto de dados contendo informações de 1500 clientes, incluindo:
-`#000000` ID do cliente
+*ID do cliente*
 Renda
 Idade
 Valor do empréstimo
