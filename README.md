@@ -33,5 +33,3 @@ Coleta de Dados: Utilização de um conjunto de dados contendo informações de 
 Linguagem: Python
 Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn, plotly
 Autor: Matheus Andrade Moreira
-
-
